@@ -1,6 +1,6 @@
 # Security Research Project
 
-This repository documents a comparative security assessment conducted against versions 3.4.3 and 3.4.5 of a containerized software system. The assessment aimed to identify and evaluate network exposure, software vulnerabilities, and risks related to outdated dependencies and insecure configurations within both the host environment and Docker containers.
+This repository documents a comparative security assessment conducted against versions 3.4.3 and 3.4.5 of a containerised software system. The assessment aimed to identify and evaluate network exposure, software vulnerabilities, and risks related to outdated dependencies and insecure configurations within both the host environment and Docker containers.
 
 ### Scope
 
